@@ -49,45 +49,9 @@
 .lp-arrow:before {
   content: "\61";
 }
-.lp-check:before {
+.lp-home:before {
   content: "\62";
 }
-.lp-fb:before {
+.lp-person:before {
   content: "\63";
-}
-.lp-location:before {
-  content: "\64";
-}
-.lp-mail:before {
-  content: "\65";
-}
-.lp-mail-2:before {
-  content: "\66";
-}
-.lp-phone:before {
-  content: "\67";
-}
-.lp-phone-2:before {
-  content: "\68";
-}
-.lp-pllay:before {
-  content: "\69";
-}
-.lp-search:before {
-  content: "\6a";
-}
-.lp-tiktok:before {
-  content: "\6b";
-}
-.lp-web:before {
-  content: "\6c";
-}
-.lp-ytb:before {
-  content: "\6d";
-}
-.lp-messenger:before {
-  content: "\6e";
-}
-.lp-zalo:before {
-  content: "\6f";
 }
