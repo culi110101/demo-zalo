@@ -8,6 +8,7 @@ import "./styles/tailwind.css";
 import "zmp-ui/zaui.css";
 
 import "./styles/app.scss";
+import "./styles/icons.css";
 
 // Import App Component
 import App from "./components/app";

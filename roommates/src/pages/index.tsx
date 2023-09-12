@@ -2,7 +2,9 @@ import React from "react";
 
 const HomePage: React.FunctionComponent = () => {
   return (
-    <p> hello </p>
+    <div className="home__main">
+      <p> BCDowntown </p>
+    </div>
   );
 };
 

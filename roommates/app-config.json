@@ -2,19 +2,21 @@
   "app": {
     "title": "roommates",
     "headerTitle": "roommates",
-    "headerColor": "#1843EF",
+    "headerColor": "#1843ef",
     "textColor": "white",
     "textAlign": "left",
-    "statusBarColor": "#1843EF",
+    "statusBarColor": "#000000",
     "leftButton": "back",
     "statusBar": "normal",
-    "actionBarHidden": false,
-    "hideAndroidBottomNavigationBar": false,
-    "hideIOSSafeAreaBottom": false
+    "actionBarHidden": true,
+    "hideAndroidBottomNavigationBar": true,
+    "hideIOSSafeAreaBottom": true,
+    "selfControlLoading": false
   },
   "debug": false,
   "pages": [],
   "listCSS": [],
   "listSyncJS": [],
-  "listAsyncJS": []
+  "listAsyncJS": [],
+  "template": {}
 }
